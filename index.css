@@ -311,6 +311,9 @@ textarea {
 hr {
   border: 1px solid var(--main-color);
 }
+i.fa.fa-moon{
+  background: transparent;
+}
 footer {
   margin: 2%;
 }
