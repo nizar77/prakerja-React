@@ -33,13 +33,11 @@ function Todo(){
                    <div className="text-center mt-4">
                    
                                 <p className="display-6">{t.todo}</p>
-                                <td className=""><button className="btn btn-danger btn-sm">delete</button></td>
-                           
+                                <td className=""><button className="btn btn-danger btn-sm">delete</button></td>                          
          
                    </div>
                     </>
-
-                );
+                    );
             })
            }
         </div>
