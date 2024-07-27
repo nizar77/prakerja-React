@@ -408,3 +408,14 @@ font-weight: 200;
     justify-content: center;
   }
 }
+.container-todo{
+  display: flex;
+  border-radius: 5px;
+  justify-content: center;
+  flex: 1;
+}
+.todo{
+  display: flex;
+  
+  flex:1;
+}
