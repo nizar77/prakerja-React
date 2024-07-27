@@ -35,7 +35,7 @@ function Todo(){
                                 <p className="display-6">{t.todo}</p>
                                 <td className=""><button className="btn btn-danger btn-sm">delete</button></td>
                            
-                   <span></span>
+         
                    </div>
                     </>
 
